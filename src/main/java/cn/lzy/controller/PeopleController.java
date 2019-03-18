@@ -15,7 +15,7 @@ public class PeopleController {
     private final PeopleService peopleService;
     @Autowired
     public PeopleController(PeopleService peopleService) {
-        System.out.println("-------------131311-------------PeopleAction构造函数");
+        System.out.println("-------------1111111111111-------------PeopleAction构造函数");
         this.peopleService = peopleService;
     }
 
